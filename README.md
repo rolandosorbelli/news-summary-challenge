@@ -150,3 +150,13 @@ If you're interested, you can see the code for the News Summary API in this repo
 * [Aylien text summary API docs](http://docs.aylien.com/docs/summarize)
 * cURL [man page](https://curl.haxx.se/docs/manpage.html)
 * [Hurl](https://www.hurl.it/), a web interface for sending HTTP requests
+
+## My approach
+
+My first approach to the challenge was to create a root folder with the whole structure or at least the one I can think of at this point. I have initialised npm, created a package.json with some info, a specRunner for my test, and also my folders (js, css and test). I have also created an index.html which will be my web page.
+
+I set up the app running in localhost using port 8080. To run the app just type this in the terminal:
+```
+http-server
+```
+and visit your [localhost:8080](http://localhost:8080).

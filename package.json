@@ -1,0 +1,25 @@
+{
+  "name": "news-summary-challenge",
+  "version": "1.0.0",
+  "description": "Single page web app that shows all the headlines from the Guardian newspaper API and displays them on a page.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandosorbelli/news-summary-challenge.git"
+  },
+  "author": "Rolando Sorbelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandosorbelli/news-summary-challenge/issues"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "homepage": "https://github.com/rolandosorbelli/news-summary-challenge#readme"
+}
