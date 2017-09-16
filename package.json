@@ -18,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/rolandosorbelli/news-summary-challenge/issues"
   },
-  "dependencies": {
+  "dependencies": {},
+  "homepage": "https://github.com/rolandosorbelli/news-summary-challenge#readme",
+  "devDependencies": {
     "http-server": "^0.10.0"
-  },
-  "homepage": "https://github.com/rolandosorbelli/news-summary-challenge#readme"
+  }
 }
